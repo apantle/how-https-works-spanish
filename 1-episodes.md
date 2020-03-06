@@ -1,14 +1,12 @@
-# Эпизоды
+# Capítulos
 
-1.  Начните читать отсюда. Если есть хоть одна тема, после которой вы забросите этот комикс, пусть это будет эта тема.
+1. Empieza a leer aquí. Si solo hay una cosa que te llevas de este cómic, al menos que sea esto.
 
-2. Чтобы понять как работает HTTPS, вам нужно разобраться как работает шифрование симмметричным и ассиметричным ключом. Это выглядит как набор заумных слов, но на самом деле, все куда проще.
+2. Para comprender cómo funciona HTTPS, debes saber cómo funciona el cifrado de clave simétrica y asimétrica. Suenan como conceptos complicados, pero en realidad no lo son...
 
-3. Когда вы посещаете сайт с защищенным HTTP, у вашего браузера и сервера, при соединении, есть секретное рукопожатие. Мы разберемся как оно происходит и перенесем его в реальную жизнь, так что вы сможете приветствовать своих друзей секретным рукопожатием.
+3. Cuando navegas a un sitio seguro HTTP, tu navegador y el servidor al que te conectas tienen un saludo secreto. Desglosamos esto y lo traemos al mundo real para que puedas saludar a sus amigos con el apretón de manos secreto.
 
-4. Легко запутаться в HTTPS, SSL, и TLS. Мы часто используем эти термины как взаимозаменяемые. Поговорим о каждом из них, и немного об их истории.
+4. Es fácil confundir HTTPS, SSL y TLS. A menudo usamos estos términos indistintamente. Hablemos de cada uno de ellos con un poco de historia.
 
-5. Что они делают? Зачем они нам? Как они проверяют сертификаты? Так много вопросов, на которые нужно ответить в последней главе комикса!
-
-
+5. ¿Qué hacen? ¿Por qué los necesitamos? ¿Cómo validan los certificados? ¡Tantas preguntas para responder en este último capítulo del cómic!
 
