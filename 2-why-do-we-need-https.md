@@ -1,173 +1,172 @@
 ## Picture-01
 
-Зачем нам нужен HTTPS?
+¿Por qué necesitamos HTTPS?
 
 ## Picture-02
 
-HTTPS необходим по 3 причинам
+Necesitamos HTTPS por 3 razones
 
 ## Picture-03
 
-Конфиденциальность, достоверность, и идентификация.
+Privacidad, integridad e identificación.
 
 ## Picture-04
 
-СертифиКэт
+Certificat
 
-Сначала поговорим о конфиденциальности.
+Hablemos de privacidad primero.
 
 ## Picture-05
 
-ПеСель
+Compugter
 
-Мои друзья помогут с примерами.
+Pondré a mis amigos como ejemplo.
 
 ## Picture-06
 
-Браузерберд
+Browserbird
 
 ## Picture-07
 
-От
+De
 
-Кому
+Para
 
-Я отправляю сообщение Браузерберду.
+Estoy enviando un mensaje a Browserbird.
 
 ## Picture-08
 
-Секретный рецепт тостов авокадо
+Una receta secreta de guacamol
 
-1 тост
+1 tostada
 
-10мл оливкового масла
+10 ml de aceite de oliva
 
-1 авокадо
+1 aguacate
 
-
-О нет! Сообщение не зашифровано!
+¡Oh no! ¡El mensaje no está cifrado!
 
 ## Picture-09
 
-Краб прослушивает соединение, чтобы перехватить сообщение.
+Cangrejo está monitoreando la línea, por lo que puede capturar el mensaje.
 
 ## Picture-10
 
-Возможно использует его на стороне зла.
+Puede usarlo para el mal.
 
 ## Picture-11
 
-Конфиденциальность означает, что никто не подслушает ваше сообщение.
+Privacidad significa que nadie puede espiar en tus mensajes.
 
 ## Picture-12
 
-Плохой краб. Плохой.
+Mal Cangrejo. Malo.
 
 ## Picture-13
 
-Пароль
+Contraseña
 
-Когда вы посещаете вебсайт без HTTPS, я могу подглядеть ваш пароль.
+Cuando navegas a un sitio web sin HTTPS, yo podría estar capturando tu contraseña.
 
 ## Picture-14
 
-Зеленый замок в адресной строке вашего браузера говорит о том, что никакой краб не подглядывает из-за вашего плеча.
+El candadito verde en la barra de direcciones de tu navegador dice que no hay Cangrejos espiándote por encima del hombro.
 
 ## Picture-15
 
-Причина №2: достоверность.
+Razón número 2: Integridad.
 
 ## Picture-16
 
-Пример уже на подходе!
+¡Aquí viene un ejemplo!
 
 ## Picture-17
 
-Я отправляю другое незашифрованное сообщение Браузерберду.
+Estoy enviando un mensaje a Browserbird sin cifrado.
 
 ## Picture-18
 
-Но прежде чем оно дойдет до Браузерберда, я перехвачу сообщение.
+Pero antes de que llegue a Browserbird, yo he capturado el mensaje.
 
 ## Picture-19
 
-Я изменю сообщение, чтобы сказать что-нибудь плохое о Браузерберде, и отправлю это ему.
+He alterado el mensaje para decir cosas malas de Browserbird y se lo envío.
 
 ## Picture-20
 
-Почему Песель говорит про меня такие вещи?
+¿Por qué Compugter diría esas cosas acerca de mí?
 
 ## Picture-21
 
-Это часто называют атакой "Человек посередине".
+Esto es llamado a menudo un ataque de intermediario.
 
 ## Picture-22
 
-А "Краб посередине" еще хуже.
+Y los ataques de cangrejo intermediario son los peores.
 
 ## Picture-23
 
-Плохой краб. Плохой.
+Mal Cangrejo. Malo.
 
 ## Picture-24
 
-Достоверность означает, что сообщение не было изменено по пути до адресата.
+Integridad significa que el mensaje no ha sido manipulado en ruta a su destinatario.
 
 ## Picture-25
 
-Я позабочусь, чтобы ваше соединение не было сфальсифицировано.
+Yo garantizo que tu comunicación no ha sido intervenida.
 
 ## Picture-26
 
-Причина №3: идентификация.
+Razón número 3: Identificación.
 
 ## Picture-27
 
-Время примера!
+¡Es hora de un ejemplo!
 
 ## Picture-28
 
-Секретный рецепт тостов с авокадо
+Receta secreta de guacamol
 
-Идентификация означает, что я могу проверить то, что это сообщение пришло именно от Песеля.
+Identificación significa que puedo verificar que este mensaje es de Compugter.
 
 ## Picture-29
 
-Цифровая подпись, прикрепленная к сообщению, может идентифицировать отправителя.
+Una firma digital adjunta a un mensaje puede identificar al remitente.
 
 ## Picture-30
 
-Пока, Песель.
+Saludos, Compugter.
 
 --
 
-айфон. айопечатка. айизвиняюсь.
+iPhone, iDedazos, iDisculpa.
 
 
-Цифровая подпись вовсе не заключительный текст в вашем письме. Любой может его скопировать ;)
+La firma digital no es la línea con que terminas tus correos. Cualquiera podría copiar eso ;)
 
 ## Picture-31
 
-Когда вы пользуетесь интернетом, идентификация означает, что сайт, который вы посещаете, является именно тем сайтом, на который вы хотели зайти. 
+Y cuando estás navegando en la red, identificación significa que el sitio que estás visitando es ciertamente el que crees. 
 
 ## Picture-32
 
-HTTPS с помощью SSL сертификатов, гарантирует вам, что вы соединяетесь именно с тем получателем, которого вы ожидаете.
+HTTPS, por medio de certificados SSL, asegura que te conectas exactamente con la contraparte que esperas.
 
 ## Picture-33
 
-Этот SSL сертификат является законным и выдается легитимныим Центром Сертификации. Можете проходить.
+Este certificado SSL es válido y ha sido expedido por una Entidad Certificadora legítima, puedes seguir con confianza.
 
 ## Picture-34
 
-Скоро мы поговорим подробнее о SSL сертификатах и Центрах Сертификации, так что оставайтесь на нашей волне.
+Pronto hablaremos más sobre Certificados SSL y Entidades Certificadoras, continúa con nosotros.
 
 ## Picture-35
 
-В общем, конфиденциальность, достоверность и идентификация являются основными причинами почему HTTPS так важен.
+En resumen, Privacidad, Integridad e Identificación son las principales razones por las que HTTPS es importante.
 
-# Далее на HowHTTPS.works...
+# A continuación en HowHTTPS.works
 
-Сейчас, когда мы знаем зачем нам HTTPS, следующим шагом будет разобраться с симметричным и асимметричным шифрованием. Сложные слова, но простой смысл.
+Ahora que sabemos el porqué, el siguiente paso es entender el cifrado simétrico y asimétrico. Palabras especiales, pero conceptos sencillos.
 
-`Продолжение следует...`
+`Sigue leyendo...`
